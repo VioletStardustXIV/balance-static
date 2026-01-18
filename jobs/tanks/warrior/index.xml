@@ -1,33 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Warrior on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/</link><description>Recent content in Warrior on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 24 Aug 2025 01:29:34 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/warrior/index.xml" rel="self" type="application/rss+xml"/><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</link><pubDate>Sun, 24 Aug 2025 01:29:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</guid><description/></item><item><title>Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</link><pubDate>Wed, 28 May 2025 12:10:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</guid><description>&lt;h2 id="the-optimization"&gt;The Optimization&lt;/h2&gt;
-&lt;p&gt;Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos, Primal Rend Ready and Primal Ruination Ready.&lt;/p&gt;
-&lt;p&gt;There’s the case of pushing out “3 IC Pot” and &amp;ldquo;2 Ruin Pot&amp;rdquo; windows and other rotational niches, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you&amp;rsquo;re at the mercy of a good kill time and Crit RNG. Bosses dying right after an entire Inner Release + resource burn window? That&amp;rsquo;s a nice percentile.&lt;/p&gt;</description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/openers/</link><pubDate>Mon, 26 May 2025 18:00:59 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/openers/</guid><description>&lt;h1 id="opener-graphic-and-notes"&gt;Opener Graphic and Notes&lt;/h1&gt;
-&lt;p&gt;Warriors prepare their burst while waiting for the party buffs to appear.&lt;br&gt;
-After the buffs are up, fell cleaves are used first for comfort, but the order of IR GCDs can be swapped around as desired.&lt;/p&gt;
-&lt;h2 id="opener-optimization"&gt;Opener Optimization&lt;/h2&gt;
-&lt;p&gt;Assumed Timings:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tomahawk starts at -0.70s and the pull starts at 0.00s&lt;/li&gt;
-&lt;li&gt;Party buffs are expected to be up at around 7.80s, right when the first Inner Chaos goes out.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Skill Speed requirements&lt;/p&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</link><pubDate>Thu, 03 Apr 2025 22:37:53 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</guid><description>&lt;h2 id="google-doc"&gt;Google Doc&lt;/h2&gt;
-&lt;p&gt;The top end of Warrior Optimization is in the advanced gdoc, linked &lt;a href="https://docs.google.com/document/d/1c9Ck_Vz0jGmQT4XGgO5zNhkh0BOL_NHiPdccVgqnVxs"&gt;HERE&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/leveling-guide/</link><pubDate>Thu, 03 Apr 2025 22:35:52 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/leveling-guide/</guid><description>&lt;p&gt;Henlo team!&lt;/p&gt;
-&lt;p&gt;We heard you needed some pointers on how to play WAR while leveling. The splits below are done based on what skills you unlock, and what you should take into account.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Do your job quests every five levels.&lt;/li&gt;
-&lt;li&gt;Upgrade your gear every two to five levels.&lt;/li&gt;
-&lt;li&gt;Remember your role actions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id="gear"&gt;Gear&lt;/h1&gt;
-&lt;p&gt;We want Strength and Vitality. And Weapon Damage. &lt;em&gt;Lots of Weapon Damage.&lt;/em&gt; The marketboard is a good place to pick up some cheap upgrades fast, along with Dungeon/Quest/Tomestone gear.&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/basic-guide/</link><pubDate>Thu, 03 Apr 2025 22:32:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/basic-guide/</guid><description>&lt;h1 id="intro"&gt;Intro&lt;/h1&gt;
-&lt;p&gt;By Mox Xinmagar &amp;amp; The Happy Team of Warriors&lt;br&gt;
-@Balance Discord&lt;/p&gt;
-&lt;p&gt;Hello team!
-There should be an intro here, but I am bad at writing those.&lt;br&gt;
-Therefore I shall skip the funny talks about the Angriest Healer of FFXIV and let the rest of the guide do the talking.&lt;br&gt;
-This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.&lt;/p&gt;
-&lt;h1 id="skills"&gt;Skills&lt;/h1&gt;
-&lt;p&gt;The order of skills is pretty straight forward. Here is an image to visualize it all:&lt;/p&gt;</description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/job-changes/</link><pubDate>Thu, 03 Apr 2025 22:25:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/job-changes/</guid><description/></item><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/stat-priority/</link><pubDate>Thu, 27 Mar 2025 15:47:30 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/stat-priority/</guid><description>&lt;p&gt;Universal Stat Priorities are:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Warrior on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/</link><description>Recent content in Warrior on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 27 Dec 2025 02:32:16 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/tanks/warrior/index.xml" rel="self" type="application/rss+xml"/><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/stat-priority/</link><pubDate>Sat, 27 Dec 2025 02:32:16 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/stat-priority/</guid><description>&lt;p&gt;Universal Stat Priorities are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Weapon Damage &amp;raquo;&amp;gt; Main Stat &amp;raquo;&amp;raquo; Substats.&lt;/li&gt;
 &lt;li&gt;Very few exceptions have existed before Endwalker.&lt;/li&gt;
@@ -48,7 +19,19 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
 &lt;li&gt;oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/skills-overview/</link><pubDate>Thu, 27 Mar 2025 15:46:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/skills-overview/</guid><description>&lt;h1 id="single-target-actions"&gt;Single Target Actions&lt;/h1&gt;
+&lt;/ul&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</link><pubDate>Sat, 27 Dec 2025 02:31:26 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/advanced-guide/</guid><description>&lt;h2 id="google-doc"&gt;Google Doc&lt;/h2&gt;
+&lt;p&gt;The top end of Warrior Optimization is in the advanced gdoc, linked &lt;a href="https://docs.google.com/document/d/1c9Ck_Vz0jGmQT4XGgO5zNhkh0BOL_NHiPdccVgqnVxs"&gt;HERE&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Intermediate Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</link><pubDate>Sat, 27 Dec 2025 02:30:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/intermediate-guide/</guid><description>&lt;h2 id="the-optimization"&gt;The Optimization&lt;/h2&gt;
+&lt;p&gt;Warrior Optimization focuses on manipulating the Surging Tempest buff refreshes, and “Carrying buffs” such as Nascent Chaos, Primal Rend Ready and Primal Ruination Ready.&lt;/p&gt;
+&lt;p&gt;There’s the case of pushing out “3 IC Pot” and &amp;ldquo;2 Ruin Pot&amp;rdquo; windows and other rotational niches, but also disrespecting various mechanics by zeroing out the damage, or canceling a knockback with our Onslaught. Also, if you want a high percentile in FFLogs, you&amp;rsquo;re at the mercy of a good kill time and Crit RNG. Bosses dying right after an entire Inner Release + resource burn window? That&amp;rsquo;s a nice percentile.&lt;/p&gt;</description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/openers/</link><pubDate>Sat, 27 Dec 2025 02:30:06 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/openers/</guid><description>&lt;h1 id="opener-graphic-and-notes"&gt;Opener Graphic and Notes&lt;/h1&gt;
+&lt;p&gt;Warriors prepare their burst while waiting for the party buffs to appear.&lt;br&gt;
+After the buffs are up, fell cleaves are used first for comfort, but the order of IR GCDs can be swapped around as desired.&lt;/p&gt;
+&lt;h2 id="opener-optimization"&gt;Opener Optimization&lt;/h2&gt;
+&lt;p&gt;Assumed Timings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tomahawk starts at -0.70s and the pull starts at 0.00s&lt;/li&gt;
+&lt;li&gt;Party buffs are expected to be up at around 7.80s, right when the first Inner Chaos goes out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Skill Speed requirements&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/skills-overview/</link><pubDate>Sat, 27 Dec 2025 02:29:39 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/skills-overview/</guid><description>&lt;h1 id="single-target-actions"&gt;Single Target Actions&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -65,7 +48,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[96 137 487 468 65 136]" src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000260_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heavy Swing&lt;/td&gt;
@@ -78,7 +61,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[386 180 495 348 389 374]" src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000255_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Maim&lt;/td&gt;
@@ -91,7 +74,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[423 35 448 31 155 306]" src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002551_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Defiance&lt;/td&gt;
@@ -104,7 +87,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[400 234 257 187 371 38]" src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000261_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Tomahawk&lt;/td&gt;
@@ -117,7 +100,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[333 432 370 301 41 367]" src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000258_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Storm&amp;rsquo;s Path&lt;/td&gt;
@@ -130,7 +113,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[294 443 126 47 324 330]" src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000264_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Storm&amp;rsquo;s Eye&lt;/td&gt;
@@ -143,7 +126,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[266 336 443 232 454 138]" src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002555_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Infuriate&lt;/td&gt;
@@ -156,7 +139,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[62 82 149 429 136 410]" src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002557_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fell Cleave&lt;/td&gt;
@@ -169,7 +152,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[132 337 208 353 75 69]" src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002561_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Onslaught&lt;/td&gt;
@@ -182,7 +165,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[204 343 243 100 294 375]" src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002562_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Upheaval&lt;/td&gt;
@@ -195,7 +178,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[51 212 53 61 286 397]" src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002564_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Inner Release&lt;/td&gt;
@@ -208,7 +191,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[44 183 311 264 173 18]" src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002568_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Inner Chaos&lt;/td&gt;
@@ -221,7 +204,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[336 132 201 374 381 365]" src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002571_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Primal Rend&lt;/td&gt;
@@ -234,7 +217,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[75 271 177 161 54 202]" src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002574_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Primal Wrath&lt;/td&gt;
@@ -247,7 +230,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[3 383 56 63 345 167]" src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002050_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Primal Ruination&lt;/td&gt;
@@ -276,7 +259,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[146 171 447 251 258 479]" src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000254_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Overpower&lt;/td&gt;
@@ -289,7 +272,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[498 218 271 266 493 202]" src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002565_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Mythril Tempest&lt;/td&gt;
@@ -302,7 +285,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[169 394 477 220 406 309]" src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002558_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Decimate&lt;/td&gt;
@@ -315,7 +298,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[14 22 465 249 328 59]" src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002566_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Chaotic Cyclone&lt;/td&gt;
@@ -328,7 +311,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[342 94 299 334 439 348]" src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002570_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Orogeny&lt;/td&gt;
@@ -357,7 +340,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[414 283 424 281 25 338]" src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000801_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Rampart&lt;/td&gt;
@@ -370,7 +353,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[449 278 180 329 37 113]" src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000806_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Reprisal&lt;/td&gt;
@@ -383,7 +366,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[262 348 140 284 65 240]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm&amp;rsquo;s Length&lt;/td&gt;
@@ -396,7 +379,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[98 329 431 32 368 354]" src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000263_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Thrill of Battle&lt;/td&gt;
@@ -409,7 +392,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[435 134 302 487 87 460]" src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000267_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Vengeance&lt;/td&gt;
@@ -422,7 +405,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[227 459 31 199 201 352]" src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000266_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Holmgang&lt;/td&gt;
@@ -435,7 +418,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[286 288 464 170 192 216]" src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002560_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Equilibrium&lt;/td&gt;
@@ -448,7 +431,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[50 234 368 308 192 155]" src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002563_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Shake It Off&lt;/td&gt;
@@ -461,7 +444,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[174 342 214 373 125 376]" src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002567_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Nascent Flash&lt;/td&gt;
@@ -474,7 +457,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[352 82 199 220 363 49]" src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002569_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bloodwhetting&lt;/td&gt;
@@ -487,7 +470,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[214 74 449 452 455 31]" src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/002000/002573_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Damnation&lt;/td&gt;
@@ -516,7 +499,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[409 403 228 110 297 196]" src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000802_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Low Blow&lt;/td&gt;
@@ -529,7 +512,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[304 53 243 173 440 165]" src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000803_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Provoke&lt;/td&gt;
@@ -542,7 +525,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[39 351 191 227 6 246]" src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000808_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Interject&lt;/td&gt;
@@ -555,7 +538,7 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[285 436 84 314 376 480]" src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000810_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Shirk&lt;/td&gt;
@@ -566,7 +549,24 @@ This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.
  &lt;td&gt;Diverts 25% of enmity onto the target party member.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/faq/</link><pubDate>Mon, 02 Dec 2024 21:34:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/faq/</guid><description>&lt;blockquote&gt;
+&lt;/table&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/basic-guide/</link><pubDate>Sat, 27 Dec 2025 02:29:07 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/basic-guide/</guid><description>&lt;h1 id="intro"&gt;Intro&lt;/h1&gt;
+&lt;p&gt;By Mox Xinmagar &amp;amp; The Happy Team of Warriors&lt;br&gt;
+@Balance Discord&lt;/p&gt;
+&lt;p&gt;Hello team!
+There should be an intro here, but I am bad at writing those.&lt;br&gt;
+Therefore I shall skip the funny talks about the Angriest Healer of FFXIV and let the rest of the guide do the talking.&lt;br&gt;
+This intro is focused on Lvl100 Endwalker Warrior. Please get to level 100 soon.&lt;/p&gt;
+&lt;h1 id="skills"&gt;Skills&lt;/h1&gt;
+&lt;p&gt;The order of skills is pretty straight forward. Here is an image to visualize it all:&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/leveling-guide/</link><pubDate>Sat, 27 Dec 2025 02:28:19 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/leveling-guide/</guid><description>&lt;p&gt;Henlo team!&lt;/p&gt;
+&lt;p&gt;We heard you needed some pointers on how to play WAR while leveling. The splits below are done based on what skills you unlock, and what you should take into account.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do your job quests every five levels.&lt;/li&gt;
+&lt;li&gt;Upgrade your gear every two to five levels.&lt;/li&gt;
+&lt;li&gt;Remember your role actions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="gear"&gt;Gear&lt;/h1&gt;
+&lt;p&gt;We want Strength and Vitality. And Weapon Damage. &lt;em&gt;Lots of Weapon Damage.&lt;/em&gt; The marketboard is a good place to pick up some cheap upgrades fast, along with Dungeon/Quest/Tomestone gear.&lt;/p&gt;</description></item><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</link><pubDate>Sun, 24 Aug 2025 01:29:34 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/best-in-slot/</guid><description/></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/job-changes/</link><pubDate>Thu, 03 Apr 2025 22:25:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/job-changes/</guid><description/></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/tanks/warrior/faq/</link><pubDate>Mon, 02 Dec 2024 21:34:12 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/tanks/warrior/faq/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Lvl70: Single Target vs AoE (Two Targets)?&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqxeKcJJb0zc2Kh86mY222FLkV9r8YAByW-TzoPujokBy1DT4ofPlwpFhKN4K4uZWhrYLfHvo7Lz5g/pubhtml"&gt;TL;DR: Very equal, but lvl70 ST wins by a small margin&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;

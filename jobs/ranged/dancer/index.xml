@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dancer on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/</link><description>Recent content in Dancer on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 16:59:25 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/index.xml" rel="self" type="application/rss+xml"/><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/best-in-slot/</link><pubDate>Sun, 27 Apr 2025 16:59:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/best-in-slot/</guid><description/></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 01 Apr 2025 04:57:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p&gt;by Tomcat Frost (Faerie)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dancer on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/</link><description>Recent content in Dancer on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:06:11 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/index.xml" rel="self" type="application/rss+xml"/><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/</link><pubDate>Thu, 01 Jan 2026 00:06:11 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Written by: Ringabel Dim&lt;/p&gt;
+&lt;p&gt;This information on this page is to give helpful tips to help you as you are leveling DNC. This guide will focus on what skills and abilities are available to you for each level range and will indicate at which levels do you get actions that affect your rotation and how they affect it.&lt;/p&gt;
+&lt;h1 id="basics"&gt;Basics&lt;/h1&gt;
+&lt;h2 id="unlocking-dancer"&gt;Unlocking Dancer&lt;/h2&gt;
+&lt;p&gt;You can unlock DNC as long as you have access to the Shadowbringers Expansion for FFXIV and at least one Disciple of War or Magic job at level 60. DNC is unlocked from the quest “Shall We Dance” in Limsa Lominsa given by the NPC “Eager Lominsan” at (x:9.8.y:12.1) just south of the main Aetheryte.&lt;/p&gt;</description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/job-changes/</link><pubDate>Thu, 01 Jan 2026 00:05:37 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/job-changes/</guid><description/></item><item><title>Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/best-in-slot/</link><pubDate>Wed, 31 Dec 2025 23:55:05 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/best-in-slot/</guid><description/></item><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/stat-priority/</link><pubDate>Tue, 16 Dec 2025 20:28:10 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/stat-priority/</guid><description/></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 16 Dec 2025 20:27:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p&gt;by Tomcat Frost (Faerie)&lt;/p&gt;
 &lt;h1 id="foreword"&gt;FOREWORD&lt;/h1&gt;
 &lt;p&gt;One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.&lt;/p&gt;
-&lt;p&gt;This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 01 Apr 2025 04:00:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority"&gt;DANCE PARTNER PRIORITY&lt;/h1&gt;
+&lt;p&gt;This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 16 Dec 2025 20:26:54 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority"&gt;DANCE PARTNER PRIORITY&lt;/h1&gt;
 &lt;p&gt;This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br&gt;
 Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em&gt;&lt;/p&gt;
@@ -15,7 +20,36 @@ Special Note: some fights may favor certain Dance Partners over others based on 
 &lt;li&gt;BRD&lt;/li&gt;
 &lt;li&gt;DNC&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/</link><pubDate>Tue, 01 Apr 2025 03:49:35 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/</guid><description>&lt;h1 id="actions"&gt;Actions&lt;/h1&gt;
+&lt;p&gt;*Data on BLM SpS build as a dance partner is not available due to length in time to reach BiS with this build as of this update, but value as a dance partner is believed to drop significantly between the two builds due to under utilization of Devilment.&lt;/p&gt;</description></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</link><pubDate>Tue, 16 Dec 2025 20:25:11 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</guid><description>&lt;h1 id="infographic"&gt;INFOGRAPHIC&lt;/h1&gt;
+&lt;p&gt;
+&lt;div class="md__image"&gt;
+ &lt;img src="https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png" onclick="openModal(this)" alt="DNC Opener" title="DNC Opener" /&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png"&gt;Full Size&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pre-Pull: &lt;br&gt;
+-15s: Standard Step (Step, Step)&lt;br&gt;
+Peloton&lt;br&gt;
+-1s: Current Tincture of Dexterity&lt;/p&gt;
+&lt;p&gt;Pull:
+Standard Finish&lt;br&gt;
+Technical Step (Step, Step, Step, Step)&lt;br&gt;
+Technical Finish (Devilment) &lt;br&gt;
+Tillana (Flourish) &lt;br&gt;
+Dance of the Dawn (Fan Dance IV) &lt;br&gt;
+Last Dance (Fan Dance III) &lt;br&gt;
+Finishing Move &lt;br&gt;
+Saber Dance&lt;/p&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/basic-guide/</link><pubDate>Tue, 16 Dec 2025 20:24:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/basic-guide/</guid><description>&lt;h1 id="foreword"&gt;Foreword&lt;/h1&gt;
+&lt;p&gt;Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord.&lt;/p&gt;
+&lt;h2 id="useful-resources"&gt;Useful Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/"&gt;Skill Overview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/"&gt;Opener Infographic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/"&gt;Io&amp;rsquo;s Raiding Primer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://bit.ly/DNCGuideDT"&gt;Ringabel&amp;rsquo;s Advanced Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/"&gt;Leveling Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://partnercalc.app/"&gt;Dance Partner Calculator&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="what-is-a-dancer"&gt;What is a Dancer?&lt;/h1&gt;
+&lt;p&gt;Dancer, alongside Bard and Machinist, is one of the three physical ranged DPS. Dancers focus on providing sizable damage buffs to the party through a big two-minute raid buff and a single target buff to one party member of their choice. Like other physical ranged DPS jobs, Dancer’s skills are instantly cast, and thus allow for nearly unrestricted movement.&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/</link><pubDate>Tue, 16 Dec 2025 20:22:47 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/</guid><description>&lt;h1 id="actions"&gt;Actions&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -32,7 +66,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[245 276 68 130 174 445]" src="https://xivapi.com/i/003000/003451_hr1.png" onclick="openModal(this.id)" alt="Cascade" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003451_hr1.png" onclick="openModal(this)" alt="Cascade" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Cascade&lt;/td&gt;
@@ -45,7 +79,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[498 80 26 431 216 409]" src="https://xivapi.com/i/003000/003452_hr1.png" onclick="openModal(this.id)" alt="Fountain" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003452_hr1.png" onclick="openModal(this)" alt="Fountain" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fountain&lt;/td&gt;
@@ -58,7 +92,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[238 173 364 47 138 467]" src="https://xivapi.com/i/003000/003453_hr1.png" onclick="openModal(this.id)" alt="Windmill" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003453_hr1.png" onclick="openModal(this)" alt="Windmill" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Windmill&lt;/td&gt;
@@ -71,7 +105,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[380 172 93 347 437 47]" src="https://xivapi.com/i/003000/003454_hr1.png" onclick="openModal(this.id)" alt="Standard Step" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003454_hr1.png" onclick="openModal(this)" alt="Standard Step" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Standard Step&lt;/td&gt;
@@ -84,7 +118,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[143 345 161 91 405 492]" src="https://xivapi.com/i/003000/003459_hr1.png" onclick="openModal(this.id)" alt="Standard Finish" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003459_hr1.png" onclick="openModal(this)" alt="Standard Finish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Standard Finish&lt;/td&gt;
@@ -97,7 +131,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[84 158 27 93 220 216]" src="https://xivapi.com/i/003000/003460_hr1.png" onclick="openModal(this.id)" alt="Reverse Cascade" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003460_hr1.png" onclick="openModal(this)" alt="Reverse Cascade" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Reverse Cascade&lt;/td&gt;
@@ -110,7 +144,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[409 19 476 493 253 32]" src="https://xivapi.com/i/003000/003461_hr1.png" onclick="openModal(this.id)" alt="Bladeshower" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003461_hr1.png" onclick="openModal(this)" alt="Bladeshower" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bladeshower&lt;/td&gt;
@@ -123,7 +157,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[329 428 124 280 460 121]" src="https://xivapi.com/i/003000/003462_hr1.png" onclick="openModal(this.id)" alt="Fan Dance" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003462_hr1.png" onclick="openModal(this)" alt="Fan Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance&lt;/td&gt;
@@ -136,7 +170,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[349 385 261 35 255 116]" src="https://xivapi.com/i/003000/003463_hr1.png" onclick="openModal(this.id)" alt="Rising Windmill" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003463_hr1.png" onclick="openModal(this)" alt="Rising Windmill" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Rising Windmill&lt;/td&gt;
@@ -149,7 +183,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[165 245 193 159 206 109]" src="https://xivapi.com/i/003000/003464_hr1.png" onclick="openModal(this.id)" alt="Fountainfall" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003464_hr1.png" onclick="openModal(this)" alt="Fountainfall" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fountainfall&lt;/td&gt;
@@ -162,7 +196,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[98 52 378 417 402 375]" src="https://xivapi.com/i/003000/003465_hr1.png" onclick="openModal(this.id)" alt="Bloodshower" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003465_hr1.png" onclick="openModal(this)" alt="Bloodshower" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bloodshower&lt;/td&gt;
@@ -175,7 +209,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[316 10 65 466 162 27]" src="https://xivapi.com/i/003000/003466_hr1.png" onclick="openModal(this.id)" alt="Fan Dance II" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003466_hr1.png" onclick="openModal(this)" alt="Fan Dance II" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance II&lt;/td&gt;
@@ -188,7 +222,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[338 111 302 127 32 42]" src="https://xivapi.com/i/003000/003467_hr1.png" onclick="openModal(this.id)" alt="En Avant" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003467_hr1.png" onclick="openModal(this)" alt="En Avant" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;En Avant&lt;/td&gt;
@@ -201,7 +235,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[185 32 256 19 451 370]" src="https://xivapi.com/i/003000/003468_hr1.png" onclick="openModal(this.id)" alt="Curing Waltz" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003468_hr1.png" onclick="openModal(this)" alt="Curing Waltz" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Curing Waltz&lt;/td&gt;
@@ -214,7 +248,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[242 320 437 475 446 444]" src="https://xivapi.com/i/003000/003469_hr1.png" onclick="openModal(this.id)" alt="Shield Samba" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003469_hr1.png" onclick="openModal(this)" alt="Shield Samba" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Shield Samba&lt;/td&gt;
@@ -227,7 +261,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[405 290 122 476 174 19]" src="https://xivapi.com/i/003000/003470_hr1.png" onclick="openModal(this.id)" alt="Closed Position" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003470_hr1.png" onclick="openModal(this)" alt="Closed Position" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Closed Position&lt;/td&gt;
@@ -249,7 +283,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[413 99 209 285 397 400]" src="https://xivapi.com/i/003000/003478_hr1.png" onclick="openModal(this.id)" alt="Ending" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003478_hr1.png" onclick="openModal(this)" alt="Ending" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Ending&lt;/td&gt;
@@ -262,7 +296,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[482 114 382 493 345 387]" src="https://xivapi.com/i/003000/003471_hr1.png" onclick="openModal(this.id)" alt="Devilment" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003471_hr1.png" onclick="openModal(this)" alt="Devilment" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Devilment&lt;/td&gt;
@@ -275,7 +309,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[11 488 271 115 175 19]" src="https://xivapi.com/i/003000/003472_hr1.png" onclick="openModal(this.id)" alt="Fan Dance III" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003472_hr1.png" onclick="openModal(this)" alt="Fan Dance III" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance III&lt;/td&gt;
@@ -288,7 +322,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[126 391 118 196 28 21]" src="https://xivapi.com/i/003000/003473_hr1.png" onclick="openModal(this.id)" alt="Technical Step" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003473_hr1.png" onclick="openModal(this)" alt="Technical Step" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Technical Step&lt;/td&gt;
@@ -301,7 +335,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[387 475 264 215 469 242]" src="https://xivapi.com/i/003000/003474_hr1.png" onclick="openModal(this.id)" alt="Technical Finish" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003474_hr1.png" onclick="openModal(this)" alt="Technical Finish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Technical Finish&lt;/td&gt;
@@ -314,7 +348,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[31 354 40 166 20 397]" src="https://xivapi.com/i/003000/003475_hr1.png" onclick="openModal(this.id)" alt="Flourish" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003475_hr1.png" onclick="openModal(this)" alt="Flourish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Flourish&lt;/td&gt;
@@ -327,7 +361,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[182 440 140 10 180 453]" src="https://xivapi.com/i/003000/003476_hr1.png" onclick="openModal(this.id)" alt="Saber Dance" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003476_hr1.png" onclick="openModal(this)" alt="Saber Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Saber Dance&lt;/td&gt;
@@ -335,12 +369,12 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;Instant&lt;/td&gt;
  &lt;td&gt;2.5s&lt;/td&gt;
- &lt;td&gt;Delivers an attack to target and all enemies nearby it with a potency of 520 for the first enemy, and 60% less for all remaining enemies.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack to target and all enemies nearby it with a potency of 540 for the first enemy, and 60% less for all remaining enemies.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[132 122 128 255 8 419]" src="https://xivapi.com/i/003000/003477_hr1.png" onclick="openModal(this.id)" alt="Improvisation" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003477_hr1.png" onclick="openModal(this)" alt="Improvisation" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Improvisation&lt;/td&gt;
@@ -353,7 +387,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[83 359 395 119 151 70]" src="https://xivapi.com/i/003000/003479_hr1.png" onclick="openModal(this.id)" alt="Improvised Finish" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003479_hr1.png" onclick="openModal(this)" alt="Improvised Finish" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Improvised Finish&lt;/td&gt;
@@ -366,7 +400,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[475 135 189 465 497 16]" src="https://xivapi.com/i/003000/003480_hr1.png" onclick="openModal(this.id)" alt="Tillana" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003480_hr1.png" onclick="openModal(this)" alt="Tillana" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Tillana&lt;/td&gt;
@@ -379,7 +413,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[200 215 423 284 437 50]" src="https://xivapi.com/i/003000/003481_hr1.png" onclick="openModal(this.id)" alt="Fan Dance IV" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003481_hr1.png" onclick="openModal(this)" alt="Fan Dance IV" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Fan Dance IV&lt;/td&gt;
@@ -387,12 +421,12 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;td&gt;Ability&lt;/td&gt;
  &lt;td&gt;Instant&lt;/td&gt;
  &lt;td&gt;1s&lt;/td&gt;
- &lt;td&gt;Attacks all enemies in front of you in a cone for a potency of 420 for the first enemy, then 60% less for all remaining enemies. Can only be used under the effect of Fourfold Fan Dance.&lt;/td&gt;
+ &lt;td&gt;Attacks all enemies in front of you in a cone for a potency of 460 for the first enemy, then 60% less for all remaining enemies. Can only be used under the effect of Fourfold Fan Dance.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[36 43 42 392 90 491]" src="https://xivapi.com/i/003000/003482_hr1.png" onclick="openModal(this.id)" alt="Starfall Dance" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003482_hr1.png" onclick="openModal(this)" alt="Starfall Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Starfall Dance&lt;/td&gt;
@@ -405,7 +439,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[469 396 212 458 459 160]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003483_hr1.tex?format=png" onclick="openModal(this.id)" alt="Last Dance" /&gt;
+ &lt;img src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003483_hr1.tex?format=png" onclick="openModal(this)" alt="Last Dance" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Last Dance&lt;/td&gt;
@@ -413,12 +447,12 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;Instant&lt;/td&gt;
  &lt;td&gt;2.5s&lt;/td&gt;
- &lt;td&gt;Delivers an attack to the target with a potency of 520 and 60% of the potency to all nearby enemies. Can only be executed under the effect of Last Dance Ready.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack to the target with a potency of 540 and 60% of the potency to all nearby enemies. Can only be executed under the effect of Last Dance Ready.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[159 248 254 241 280 77]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003484_hr1.tex?format=png" onclick="openModal(this.id)" alt="Finishing Move" /&gt;
+ &lt;img src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003484_hr1.tex?format=png" onclick="openModal(this)" alt="Finishing Move" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Finishing Move&lt;/td&gt;
@@ -431,7 +465,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[47 360 357 448 24 437]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003485_hr1.tex?format=png" onclick="openModal(this.id)" alt="Dance of the Dawn" /&gt;
+ &lt;img src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003485_hr1.tex?format=png" onclick="openModal(this)" alt="Dance of the Dawn" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Dance of the Dawn&lt;/td&gt;
@@ -469,7 +503,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[108 334 484 486 188 217]" src="https://xivapi.com/i/003000/003455_hr1.png" onclick="openModal(this.id)" alt="Emboite" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003455_hr1.png" onclick="openModal(this)" alt="Emboite" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Emboite&lt;/td&gt;
@@ -482,7 +516,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[40 30 98 362 416 121]" src="https://xivapi.com/i/003000/003456_hr1.png" onclick="openModal(this.id)" alt="Entrechat" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003456_hr1.png" onclick="openModal(this)" alt="Entrechat" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Entrechat&lt;/td&gt;
@@ -495,7 +529,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[331 476 487 177 414 320]" src="https://xivapi.com/i/003000/003457_hr1.png" onclick="openModal(this.id)" alt="Jete" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003457_hr1.png" onclick="openModal(this)" alt="Jete" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Jete&lt;/td&gt;
@@ -508,7 +542,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[407 334 225 188 358 213]" src="https://xivapi.com/i/003000/003458_hr1.png" onclick="openModal(this.id)" alt="Pirouette" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003458_hr1.png" onclick="openModal(this)" alt="Pirouette" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Pirouette&lt;/td&gt;
@@ -537,7 +571,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[425 106 251 426 319 48]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="Leg Graze" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this)" alt="Leg Graze" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Leg Graze&lt;/td&gt;
@@ -550,7 +584,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[130 312 443 99 496 66]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="Second Wind" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this)" alt="Second Wind" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Second Wind&lt;/td&gt;
@@ -563,7 +597,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[17 383 419 165 391 491]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="Foot Graze" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this)" alt="Foot Graze" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Foot Graze&lt;/td&gt;
@@ -576,7 +610,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[156 315 407 427 331 92]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="Peloton" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this)" alt="Peloton" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Peloton&lt;/td&gt;
@@ -589,7 +623,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[108 403 308 24 48 342]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="Head Graze" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this)" alt="Head Graze" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Head Graze&lt;/td&gt;
@@ -602,7 +636,7 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[109 104 279 68 200 151]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="Arm&amp;rsquo;s Length" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this)" alt="Arm&amp;rsquo;s Length" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm&amp;rsquo;s Length&lt;/td&gt;
@@ -613,38 +647,4 @@ Special Note: some fights may favor certain Dance Partners over others based on 
  &lt;td&gt;Creates a barrier nullifying most knockback and draw-in effects.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/basic-guide/</link><pubDate>Tue, 01 Apr 2025 01:47:28 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/basic-guide/</guid><description>&lt;h1 id="foreword"&gt;Foreword&lt;/h1&gt;
-&lt;p&gt;Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord.&lt;/p&gt;
-&lt;h2 id="useful-resources"&gt;Useful Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/skills-overview/"&gt;Skill Overview&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/"&gt;Opener Infographic&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/"&gt;Io&amp;rsquo;s Raiding Primer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://bit.ly/DNCGuideDT"&gt;Ringabel&amp;rsquo;s Advanced Guide&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/"&gt;Leveling Guide&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://partnercalc.app/"&gt;Dance Partner Calculator&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id="what-is-a-dancer"&gt;What is a Dancer?&lt;/h1&gt;
-&lt;p&gt;Dancer, alongside Bard and Machinist, is one of the three physical ranged DPS. Dancers focus on providing sizable damage buffs to the party through a big two-minute raid buff and a single target buff to one party member of their choice. Like other physical ranged DPS jobs, Dancer’s skills are instantly cast, and thus allow for nearly unrestricted movement.&lt;/p&gt;</description></item><item><title>Recent Changes</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/job-changes/</link><pubDate>Tue, 01 Apr 2025 01:31:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/job-changes/</guid><description/></item><item><title>Openers</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</link><pubDate>Mon, 05 Aug 2024 14:08:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/openers/</guid><description>&lt;h1 id="infographic"&gt;INFOGRAPHIC&lt;/h1&gt;
-&lt;p&gt;
-&lt;div class="md__image"&gt;
- &lt;img id="[477 239 36 183 153 201]" src="https://www.thebalanceffxiv.com/img/jobs/dnc/dt_dnc_opener_full.png" onclick="openModal(this.id)" alt="DNC Opener" title="DNC Opener" /&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/a/sJjW3ve"&gt;Full Size&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Pre-Pull: &lt;br&gt;
--15s: Standard Step (Step, Step)&lt;br&gt;
-Peloton&lt;br&gt;
--1s: Current Tincture of Dexterity&lt;/p&gt;
-&lt;p&gt;Pull:
-Standard Finish&lt;br&gt;
-Technical Step (Step, Step, Step, Step)&lt;br&gt;
-Technical Finish (Devilment) &lt;br&gt;
-Tillana (Flourish) &lt;br&gt;
-Dance of the Dawn (Fan Dance IV) &lt;br&gt;
-Last Dance (Fan Dance III) &lt;br&gt;
-Finishing Move &lt;br&gt;
-Saber Dance&lt;/p&gt;</description></item><item><title>Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/stat-priority/</link><pubDate>Mon, 05 Aug 2024 13:25:31 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/stat-priority/</guid><description/></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/</link><pubDate>Fri, 28 Jun 2024 14:10:43 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/leveling-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;Written by: Ringabel Dim&lt;/p&gt;
-&lt;p&gt;This information on this page is to give helpful tips to help you as you are leveling DNC. This guide will focus on what skills and abilities are available to you for each level range and will indicate at which levels do you get actions that affect your rotation and how they affect it.&lt;/p&gt;
-&lt;h1 id="basics"&gt;Basics&lt;/h1&gt;
-&lt;h2 id="unlocking-dancer"&gt;Unlocking Dancer&lt;/h2&gt;
-&lt;p&gt;You can unlock DNC as long as you have access to the Shadowbringers Expansion for FFXIV and at least one Disciple of War or Magic job at level 60. DNC is unlocked from the quest “Shall We Dance” in Limsa Lominsa given by the NPC “Eager Lominsan” at (x:9.8.y:12.1) just south of the main Aetheryte.&lt;/p&gt;</description></item></channel></rss>
+&lt;/table&gt;</description></item></channel></rss>

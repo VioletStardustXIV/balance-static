@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/guide/</link><description>Recent content in Guide on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 10 Aug 2025 08:25:29 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Sun, 10 Aug 2025 08:25:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guide on Balance Guides</title><link>https://www.thebalanceffxiv.com/tags/guide/</link><description>Recent content in Guide on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 17 Dec 2025 05:31:02 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/tags/guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</link><pubDate>Wed, 17 Dec 2025 05:31:02 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Welcome to the Basic Guide for Reaper, which will cover everything you need to know to get started with becoming a Reaper! Included are an overview of the job’s playstyle, basic priority, abilities and core concepts.&lt;/p&gt;
 &lt;p&gt;Whether you’re a fresh level 100, a returning player, or just need a refresh, this guide will give you the tools you need to feel comfortable playing Reaper.&lt;/p&gt;
-&lt;p&gt;This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</link><pubDate>Sun, 10 Aug 2025 08:23:29 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This guide is intended to be relatively basic and doesn’t go into huge explanations of specific situations or small nuances. If you’re looking for something specific, check out the more detailed guides below:&lt;/p&gt;</description></item><item><title>Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</link><pubDate>Wed, 17 Dec 2025 05:30:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/melee/reaper/leveling-guide/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;This guide is targeted at players looking to play and understand Reaper as they level up. It will cover some basic priorities for each level tier and will also serve as a priority list for playing Reaper at lower levels (for ultimates and such). If you are level 100 and looking to explore other guides please visit the following links:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/basic-guide/"&gt;Basic Guide&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/advanced-guide/"&gt;Advanced Guide&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.thebalanceffxiv.com/jobs/melee/reaper/skills-overview/"&gt;Skill Details&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="how-to-unlock"&gt;How to Unlock&lt;/h2&gt;
-&lt;p&gt;To unlock Reaper, you must first have these prerequisites met:&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Tue, 05 Aug 2025 06:31:09 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions"&gt;Single-Target Actions&lt;/h1&gt;
+&lt;p&gt;To unlock Reaper, you must first have these prerequisites met:&lt;/p&gt;</description></item><item><title>Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</link><pubDate>Tue, 16 Dec 2025 21:49:05 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/machinist/skills-overview/</guid><description>&lt;h1 id="single-target-actions"&gt;Single-Target Actions&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -24,7 +24,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[220 194 360 158 166 211]" src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003031_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heated Split Shot&lt;/td&gt;
@@ -37,7 +37,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[363 141 197 402 392 484]" src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003032_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heated Slug Shot&lt;/td&gt;
@@ -50,7 +50,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[21 158 466 417 383 291]" src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003033_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Heated Clean Shot&lt;/td&gt;
@@ -63,7 +63,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[177 480 7 497 56 172]" src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003043_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Drill&lt;/td&gt;
@@ -71,12 +71,12 @@
  &lt;td&gt;58&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;20 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Maximum Charges: 2 (Gained at Level 94). Shares a recast timer with Bioblaster&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Maximum Charges: 2 (Gained at Level 94). Shares a recast timer with Bioblaster&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[419 256 100 474 241 285]" src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003045_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Air Anchor&lt;/td&gt;
@@ -84,12 +84,12 @@
  &lt;td&gt;76&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;40 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Generates 20 Battery.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Generates 20 Battery.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[70 378 299 18 390 374]" src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003048_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Chain Saw&lt;/td&gt;
@@ -97,12 +97,12 @@
  &lt;td&gt;90&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;60 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Grants Excavator Ready.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Grants Excavator Ready.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[213 346 272 148 445 381]" src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003022_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Reassemble&lt;/td&gt;
@@ -115,7 +115,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[262 288 419 4 120 320]" src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003041_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Hypercharge&lt;/td&gt;
@@ -128,7 +128,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[75 302 170 227 199 213]" src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://beta.xivapi.com/api/1/asset/ui/icon/003000/003506_hr1.tex?format=png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Blazing Shot&lt;/td&gt;
@@ -141,7 +141,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[174 229 365 429 176 277]" src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://ffxiv.gamerescape.com/w/images/thumb/f/f9/Checkmate_Icon.png/60px-Checkmate_Icon.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Checkmate&lt;/td&gt;
@@ -154,7 +154,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[180 402 377 276 130 203]" src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://ffxiv.gamerescape.com/w/images/thumb/c/c9/Double_Check_Icon.png/60px-Double_Check_Icon.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Double Check&lt;/td&gt;
@@ -167,7 +167,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[124 148 158 351 450 157]" src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003018_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Wildfire&lt;/td&gt;
@@ -180,7 +180,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[464 195 310 19 330 406]" src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003034_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Barrel Stabilizer&lt;/td&gt;
@@ -193,7 +193,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[479 93 465 85 452 326]" src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://ffxiv.gamerescape.com/w/images/thumb/3/3c/Excavator_Icon.png/60px-Excavator_Icon.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Excavator&lt;/td&gt;
@@ -201,12 +201,12 @@
  &lt;td&gt;96&lt;/td&gt;
  &lt;td&gt;Weaponskill&lt;/td&gt;
  &lt;td&gt;2.5 seconds&lt;/td&gt;
- &lt;td&gt;Delivers an attack with a potency of 620. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Can only be used under the effect of Excavator Ready.&lt;/td&gt;
+ &lt;td&gt;Delivers an attack with a potency of 660. Generates 20 Battery. Damage fall-off of 25% for all other enemies in a line to the target. Can only be used under the effect of Excavator Ready.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[365 424 106 440 233 4]" src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://ffxiv.gamerescape.com/w/images/thumb/5/56/Full_Metal_Field_Icon.png/60px-Full_Metal_Field_Icon.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Full Metal Field&lt;/td&gt;
@@ -235,7 +235,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[208 383 268 336 337 97]" src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003044_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Bioblaster&lt;/td&gt;
@@ -248,7 +248,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[365 241 96 176 465 89]" src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003046_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Scattergun&lt;/td&gt;
@@ -261,7 +261,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[63 257 452 142 424 376]" src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003042_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Auto-Crossbow&lt;/td&gt;
@@ -274,7 +274,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[317 205 324 346 310 35]" src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003038_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Flamethrower&lt;/td&gt;
@@ -303,7 +303,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[268 113 367 248 121 417]" src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003501_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Automaton Queen&lt;/td&gt;
@@ -316,7 +316,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[165 226 372 146 248 243]" src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003502_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Queen Overdrive&lt;/td&gt;
@@ -329,7 +329,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[400 269 85 466 241 355]" src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003504_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm Punch&lt;/td&gt;
@@ -342,7 +342,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[299 172 61 294 258 99]" src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003505_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Roller Dash&lt;/td&gt;
@@ -355,7 +355,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[121 254 205 497 241 257]" src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003503_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Pile Bunker&lt;/td&gt;
@@ -368,7 +368,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[336 285 269 413 395 370]" src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003047_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Crowned Collider&lt;/td&gt;
@@ -397,7 +397,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[356 427 264 218 482 77]" src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003040_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Tactician&lt;/td&gt;
@@ -410,7 +410,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[92 393 25 27 300 39]" src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/003000/003011_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Dismantle&lt;/td&gt;
@@ -423,7 +423,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[407 198 425 420 190 94]" src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000843_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Leg Graze&lt;/td&gt;
@@ -436,7 +436,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[58 279 100 38 452 32]" src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000842_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Foot Graze&lt;/td&gt;
@@ -449,7 +449,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[93 184 181 339 288 329]" src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000848_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Head Graze&lt;/td&gt;
@@ -462,7 +462,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[93 167 58 1 443 15]" src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000822_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Arm&amp;rsquo;s Length&lt;/td&gt;
@@ -475,7 +475,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[417 473 97 359 184 389]" src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000821_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Second Wind&lt;/td&gt;
@@ -488,7 +488,7 @@
  &lt;tr&gt;
  &lt;td&gt;
 &lt;div class="md__image"&gt;
- &lt;img id="[451 42 364 68 31 402]" src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this.id)" alt="" /&gt;
+ &lt;img src="https://xivapi.com/i/000000/000844_hr1.png" onclick="openModal(this)" alt="" /&gt;
 &lt;/div&gt;
 &lt;/td&gt;
  &lt;td&gt;Peloton&lt;/td&gt;
@@ -499,10 +499,10 @@
  &lt;td&gt;Increases movement speed for self and nearby party members.&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 01 Apr 2025 04:57:15 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p&gt;by Tomcat Frost (Faerie)&lt;/p&gt;
+&lt;/table&gt;</description></item><item><title>Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</link><pubDate>Tue, 16 Dec 2025 20:27:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/advanced-guide/</guid><description>&lt;p&gt;by Tomcat Frost (Faerie)&lt;/p&gt;
 &lt;h1 id="foreword"&gt;FOREWORD&lt;/h1&gt;
 &lt;p&gt;One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.&lt;/p&gt;
-&lt;p&gt;This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 01 Apr 2025 04:00:56 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority"&gt;DANCE PARTNER PRIORITY&lt;/h1&gt;
+&lt;p&gt;This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.&lt;/p&gt;</description></item><item><title>Frequent Questions</title><link>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</link><pubDate>Tue, 16 Dec 2025 20:26:54 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/ranged/dancer/faq/</guid><description>&lt;h1 id="dance-partner-priority"&gt;DANCE PARTNER PRIORITY&lt;/h1&gt;
 &lt;p&gt;This list is made in a gear/skill vacuum. This is the recommended partner priority list.&lt;br&gt;
 Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Updated: January 19, 2021 to account for balance changes in patch 5.4.&lt;/em&gt;&lt;/p&gt;
